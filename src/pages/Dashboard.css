@@ -14,6 +14,7 @@
 body{
     background:#07111f;
     overflow-x:hidden;
+    overflow-y:auto;
 }
 
 .dashboard{
@@ -205,6 +206,8 @@ margin-left:270px;
 width:calc(100% - 270px);
 
 padding:30px;
+
+min-height:100vh;
 
 }
 
